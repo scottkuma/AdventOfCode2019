@@ -8,9 +8,9 @@ def fuel_rec(mass):
 
 sum = 0
 data = open("day1-1.txt").readlines()
-    #print(fuel_rec(14))
-    #print(fuel_rec(1969))
-    #print(fuel_rec(100756))
+#print(fuel_rec(14))
+#print(fuel_rec(1969))
+#print(fuel_rec(100756))
 for mass in data:
     sum += fuel_rec(int(mass))
 
