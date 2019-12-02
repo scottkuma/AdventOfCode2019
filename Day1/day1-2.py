@@ -7,7 +7,7 @@ def fuel_rec(mass):
         return 0
 
 sum = 0
-data = open("day1-1.txt").readlines()
+data = open("day1.txt").readlines()
 #print(fuel_rec(14))
 #print(fuel_rec(1969))
 #print(fuel_rec(100756))
