@@ -1,6 +1,6 @@
 import sys
 
-filename = "test_day2.txt"
+filename = "day2_data.txt"
 
 orig_data = open(filename).readlines()[0].split(',')
 

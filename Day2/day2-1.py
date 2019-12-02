@@ -1,4 +1,4 @@
-filename = "test_day2.txt"
+filename = "day2_data.txt"
 
 data = open(filename).readlines()[0].split(',')
 #data = [int(d) for d in data]
