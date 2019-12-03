@@ -16,7 +16,7 @@ def get_wire_points(wire):
     point = (0, 0)
     length = 0
     for command in wire:
-        print(command)
+        #print(command)
         drx = command[0]
         dist = int(command[1:])
         for _ in range(dist):
@@ -40,11 +40,17 @@ a_points = get_wire_points(A)
 b_points = get_wire_points(B)
 
 intersections = set(set(a_points) & set(b_points))
-print(intersections)
 
 min_dist = 999999999
 for i in intersections:
     if manhattan_distance((0, 0), i) < min_dist:
         min_dist = manhattan_distance((0, 0), i)
 
-print(min_dist)
+print(f"Part 1 Answer (min Manhattan Distance): {min_dist}")
+
+min_sig_delay = 999999999
+for i in intersections:
+    if a_points[i] + b_points[i] < min_sig_delay:
+        min_sig_delay = a_points[i] + b_points[i]
+
+print(f"Part 2 Answer (min sig delay): {min_sig_delay}")
