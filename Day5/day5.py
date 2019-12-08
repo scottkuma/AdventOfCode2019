@@ -62,7 +62,7 @@ while continue_flag:
         else:
             b=int(data[pos+2])
 
-        c = int(data[pos+3])  #can't be in immediate mode
+        c = int(data[pos+3])  # can't be in immediate mode
 
         print(f"MUL {a} {b} STO {c}")
         data[c] = str(a * b)
