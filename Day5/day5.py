@@ -10,7 +10,7 @@ def show_data(data,pos):
     out += " >>"
     return out
 
-filename = "day5_data.txt"
+filename = "day5_test_data.txt"
 
 orig_data = open(filename).readlines()[0].strip().split(',')
 data = orig_data.copy()
@@ -23,7 +23,7 @@ continue_flag = True
 
 
 while continue_flag:
-    #print(show_data(data,pos))
+    print(show_data(data,pos))
     instruction = data[pos].strip().rjust(5,'0')
     #print(f"Instruction @ postion {pos} => {instruction}")
 
