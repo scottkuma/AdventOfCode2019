@@ -60,7 +60,7 @@ class IntCode:
             in_val = input().strip()
         else:
             in_val = str(self.inputs.pop(0))
-            #print(f"Auto input: {in_val}")
+            self.log(f"Auto input: {in_val}")
         a = self.get_val(1, 1)
         self.log(f"INP {in_val} STO {a} ")
         self.data[a] = in_val

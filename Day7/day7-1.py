@@ -12,21 +12,16 @@ max_perm = None
 
 for phase in permutations(phase_input):
     print(f"Trying Phase: {phase}")
-    a = IntCode(filename, True)
+    a = IntCode(filename)
     b = IntCode(filename)
     c = IntCode(filename)
     d = IntCode(filename)
     e = IntCode(filename)
 
     a.process([phase[0], 0])
-    print("B")
-    time.sleep(2)
     b.process([phase[1], a.output])
-    print("C")
     c.process([phase[2], b.output])
-    print("D")
     d.process([phase[3], c.output])
-    print("E")
     e.process([phase[4], d.output])
 
     if int(e.output) > max:
