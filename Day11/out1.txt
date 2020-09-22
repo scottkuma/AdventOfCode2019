@@ -25,6 +25,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 1
 Total Panels Painted: 1
+Bounds: (0, 0) --> (1, 0)
 10
 OUT 1
 
@@ -52,6 +53,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 2
 Total Panels Painted: 2
+Bounds: (0, -1) --> (1, 0)
 10
 OUT 1
 
@@ -79,6 +81,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 3
 Total Panels Painted: 3
+Bounds: (0, -1) --> (2, 0)
 10
 OUT 0
 
@@ -106,6 +109,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 4
 Total Panels Painted: 4
+Bounds: (0, -1) --> (2, 0)
 10
 OUT 1
 
@@ -133,6 +137,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 5
 Total Panels Painted: 5
+Bounds: (0, -1) --> (3, 0)
 10
 OUT 1
 
@@ -160,6 +165,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 6
 Total Panels Painted: 6
+Bounds: (0, -1) --> (3, 0)
 10
 OUT 0
 
@@ -187,6 +193,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 7
 Total Panels Painted: 7
+Bounds: (0, -1) --> (4, 0)
 10
 OUT 1
 
@@ -214,6 +221,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 8
 Total Panels Painted: 8
+Bounds: (0, -1) --> (4, 0)
 10
 OUT 0
 
@@ -241,6 +249,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 9
 Total Panels Painted: 9
+Bounds: (0, -1) --> (5, 0)
 10
 OUT 0
 
@@ -268,6 +277,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 10
 Total Panels Painted: 10
+Bounds: (0, -1) --> (5, 0)
 10
 OUT 0
 
@@ -295,6 +305,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 11
 Total Panels Painted: 11
+Bounds: (0, -1) --> (6, 0)
 10
 OUT 1
 
@@ -322,6 +333,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 12
 Total Panels Painted: 12
+Bounds: (0, -1) --> (6, 0)
 10
 OUT 1
 
@@ -349,6 +361,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 13
 Total Panels Painted: 13
+Bounds: (0, -1) --> (7, 0)
 10
 OUT 0
 
@@ -376,6 +389,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 14
 Total Panels Painted: 14
+Bounds: (0, -1) --> (7, 0)
 10
 OUT 0
 
@@ -403,6 +417,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 15
 Total Panels Painted: 15
+Bounds: (0, -1) --> (8, 0)
 10
 OUT 0
 
@@ -430,6 +445,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 16
 Total Panels Painted: 16
+Bounds: (0, -1) --> (8, 0)
 10
 OUT 0
 
@@ -457,6 +473,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 17
 Total Panels Painted: 17
+Bounds: (0, -1) --> (9, 0)
 10
 OUT 0
 
@@ -484,6 +501,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 18
 Total Panels Painted: 18
+Bounds: (0, -1) --> (9, 0)
 10
 OUT 0
 
@@ -511,6 +529,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 19
 Total Panels Painted: 19
+Bounds: (0, -1) --> (10, 0)
 10
 OUT 0
 
@@ -538,6 +557,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 20
 Total Panels Painted: 20
+Bounds: (0, -1) --> (10, 0)
 10
 OUT 0
 
@@ -565,6 +585,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 21
 Total Panels Painted: 21
+Bounds: (0, -1) --> (11, 0)
 10
 OUT 1
 
@@ -592,6 +613,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 22
 Total Panels Painted: 22
+Bounds: (0, -1) --> (11, 0)
 10
 OUT 1
 
@@ -619,6 +641,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 23
 Total Panels Painted: 23
+Bounds: (0, -1) --> (12, 0)
 10
 OUT 0
 
@@ -646,6 +669,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 24
 Total Panels Painted: 24
+Bounds: (0, -1) --> (12, 0)
 10
 OUT 0
 
@@ -673,6 +697,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 25
 Total Panels Painted: 25
+Bounds: (0, -1) --> (13, 0)
 10
 OUT 0
 
@@ -700,6 +725,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 26
 Total Panels Painted: 26
+Bounds: (0, -1) --> (13, 0)
 10
 OUT 0
 
@@ -727,6 +753,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 27
 Total Panels Painted: 27
+Bounds: (0, -1) --> (14, 0)
 10
 OUT 1
 
@@ -754,6 +781,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 28
 Total Panels Painted: 28
+Bounds: (0, -1) --> (14, 0)
 10
 OUT 1
 
@@ -781,6 +809,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 29
 Total Panels Painted: 29
+Bounds: (0, -1) --> (15, 0)
 10
 OUT 0
 
@@ -808,6 +837,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 30
 Total Panels Painted: 30
+Bounds: (0, -1) --> (15, 0)
 10
 OUT 0
 
@@ -835,6 +865,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 31
 Total Panels Painted: 31
+Bounds: (0, -1) --> (16, 0)
 10
 OUT 1
 
@@ -862,6 +893,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 32
 Total Panels Painted: 32
+Bounds: (0, -1) --> (16, 0)
 10
 OUT 1
 
@@ -889,6 +921,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 33
 Total Panels Painted: 33
+Bounds: (0, -1) --> (17, 0)
 10
 OUT 0
 
@@ -916,6 +949,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 34
 Total Panels Painted: 34
+Bounds: (0, -1) --> (17, 0)
 10
 OUT 0
 
@@ -943,6 +977,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 35
 Total Panels Painted: 35
+Bounds: (0, -1) --> (18, 0)
 10
 OUT 0
 
@@ -970,6 +1005,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 36
 Total Panels Painted: 36
+Bounds: (0, -1) --> (18, 0)
 10
 OUT 0
 
@@ -997,6 +1033,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 37
 Total Panels Painted: 37
+Bounds: (0, -1) --> (19, 0)
 10
 OUT 0
 
@@ -1024,6 +1061,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 38
 Total Panels Painted: 38
+Bounds: (0, -1) --> (19, 0)
 10
 OUT 0
 
@@ -1051,6 +1089,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 39
 Total Panels Painted: 39
+Bounds: (0, -1) --> (20, 0)
 10
 OUT 0
 
@@ -1078,6 +1117,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 40
 Total Panels Painted: 40
+Bounds: (0, -1) --> (20, 0)
 10
 OUT 0
 
@@ -1105,6 +1145,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 41
 Total Panels Painted: 41
+Bounds: (0, -1) --> (21, 0)
 10
 OUT 1
 
@@ -1132,6 +1173,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 42
 Total Panels Painted: 42
+Bounds: (0, -1) --> (21, 0)
 10
 OUT 0
 
@@ -1159,6 +1201,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 43
 Total Panels Painted: 43
+Bounds: (0, -1) --> (22, 0)
 10
 OUT 0
 
@@ -1186,6 +1229,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 44
 Total Panels Painted: 44
+Bounds: (0, -1) --> (22, 0)
 10
 OUT 1
 
@@ -1213,6 +1257,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 45
 Total Panels Painted: 45
+Bounds: (0, -1) --> (23, 0)
 10
 OUT 1
 
@@ -1240,6 +1285,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 46
 Total Panels Painted: 46
+Bounds: (0, -1) --> (23, 0)
 10
 OUT 0
 
@@ -1267,6 +1313,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 47
 Total Panels Painted: 47
+Bounds: (0, -1) --> (24, 0)
 10
 OUT 1
 
@@ -1294,6 +1341,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 48
 Total Panels Painted: 48
+Bounds: (0, -1) --> (24, 0)
 10
 OUT 1
 
@@ -1321,6 +1369,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 49
 Total Panels Painted: 49
+Bounds: (0, -1) --> (25, 0)
 10
 OUT 0
 
@@ -1348,6 +1397,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 50
 Total Panels Painted: 50
+Bounds: (0, -1) --> (25, 0)
 10
 OUT 0
 
@@ -1375,6 +1425,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 51
 Total Panels Painted: 51
+Bounds: (0, -1) --> (26, 0)
 10
 OUT 0
 
@@ -1402,6 +1453,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 52
 Total Panels Painted: 52
+Bounds: (0, -1) --> (26, 0)
 10
 OUT 0
 
@@ -1429,6 +1481,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 53
 Total Panels Painted: 53
+Bounds: (0, -1) --> (27, 0)
 10
 OUT 0
 
@@ -1456,6 +1509,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 54
 Total Panels Painted: 54
+Bounds: (0, -1) --> (27, 0)
 10
 OUT 0
 
@@ -1483,6 +1537,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 55
 Total Panels Painted: 55
+Bounds: (0, -1) --> (28, 0)
 10
 OUT 0
 
@@ -1510,6 +1565,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 56
 Total Panels Painted: 56
+Bounds: (0, -1) --> (28, 0)
 10
 OUT 1
 
@@ -1537,6 +1593,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 57
 Total Panels Painted: 57
+Bounds: (0, -1) --> (29, 0)
 10
 OUT 1
 
@@ -1564,6 +1621,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 58
 Total Panels Painted: 58
+Bounds: (0, -1) --> (29, 0)
 10
 OUT 1
 
@@ -1591,6 +1649,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 59
 Total Panels Painted: 59
+Bounds: (0, -1) --> (30, 0)
 10
 OUT 0
 
@@ -1618,6 +1677,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 60
 Total Panels Painted: 60
+Bounds: (0, -1) --> (30, 0)
 10
 OUT 0
 
@@ -1645,6 +1705,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 61
 Total Panels Painted: 61
+Bounds: (0, -1) --> (31, 0)
 10
 OUT 1
 
@@ -1672,6 +1733,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 62
 Total Panels Painted: 62
+Bounds: (0, -1) --> (31, 0)
 10
 OUT 1
 
@@ -1699,6 +1761,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 63
 Total Panels Painted: 63
+Bounds: (0, -1) --> (32, 0)
 10
 OUT 0
 
@@ -1726,6 +1789,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 64
 Total Panels Painted: 64
+Bounds: (0, -1) --> (32, 0)
 10
 OUT 0
 
@@ -1753,6 +1817,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 65
 Total Panels Painted: 65
+Bounds: (0, -1) --> (33, 0)
 10
 OUT 0
 
@@ -1780,6 +1845,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 66
 Total Panels Painted: 66
+Bounds: (0, -1) --> (33, 0)
 10
 OUT 0
 
@@ -1807,6 +1873,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 67
 Total Panels Painted: 67
+Bounds: (0, -1) --> (34, 0)
 10
 OUT 0
 
@@ -1834,6 +1901,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 68
 Total Panels Painted: 68
+Bounds: (0, -1) --> (34, 0)
 10
 OUT 0
 
@@ -1861,6 +1929,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 69
 Total Panels Painted: 69
+Bounds: (0, -1) --> (35, 0)
 10
 OUT 0
 
@@ -1888,6 +1957,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 70
 Total Panels Painted: 70
+Bounds: (0, -1) --> (35, 0)
 10
 OUT 0
 
@@ -1915,6 +1985,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 71
 Total Panels Painted: 71
+Bounds: (0, -1) --> (36, 0)
 10
 OUT 0
 
@@ -1942,6 +2013,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 72
 Total Panels Painted: 72
+Bounds: (0, -1) --> (36, 0)
 10
 OUT 1
 
@@ -1969,6 +2041,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 73
 Total Panels Painted: 73
+Bounds: (0, -1) --> (37, 0)
 10
 OUT 1
 
@@ -1996,6 +2069,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 74
 Total Panels Painted: 74
+Bounds: (0, -1) --> (37, 0)
 10
 OUT 0
 
@@ -2023,6 +2097,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 75
 Total Panels Painted: 75
+Bounds: (0, -1) --> (38, 0)
 10
 OUT 0
 
@@ -2050,6 +2125,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 76
 Total Panels Painted: 76
+Bounds: (0, -1) --> (38, 0)
 10
 OUT 1
 
@@ -2077,6 +2153,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 77
 Total Panels Painted: 77
+Bounds: (0, -1) --> (39, 0)
 10
 OUT 1
 
@@ -2104,6 +2181,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 78
 Total Panels Painted: 78
+Bounds: (0, -1) --> (39, 0)
 10
 OUT 1
 
@@ -2131,6 +2209,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 79
 Total Panels Painted: 79
+Bounds: (0, -1) --> (40, 0)
 10
 OUT 0
 
@@ -2158,6 +2237,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 80
 Total Panels Painted: 80
+Bounds: (0, -1) --> (40, 0)
 10
 OUT 0
 
@@ -2185,6 +2265,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 81
 Total Panels Painted: 81
+Bounds: (0, -1) --> (41, 0)
 10
 OUT 0
 
@@ -2212,6 +2293,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 82
 Total Panels Painted: 82
+Bounds: (0, -1) --> (41, 0)
 10
 OUT 0
 
@@ -2239,6 +2321,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 83
 Total Panels Painted: 83
+Bounds: (0, -1) --> (42, 0)
 10
 OUT 0
 
@@ -2266,6 +2349,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 84
 Total Panels Painted: 84
+Bounds: (0, -2) --> (42, 0)
 10
 OUT 0
 
@@ -2293,6 +2377,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 85
 Total Panels Painted: 85
+Bounds: (0, -2) --> (42, 0)
 10
 OUT 0
 
@@ -2320,6 +2405,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 86
 Total Panels Painted: 86
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -2347,6 +2433,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 87
 Total Panels Painted: 87
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -2374,6 +2461,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 88
 Total Panels Painted: 88
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -2401,6 +2489,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 89
 Total Panels Painted: 89
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -2428,6 +2517,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 90
 Total Panels Painted: 90
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -2455,6 +2545,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 91
 Total Panels Painted: 91
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -2482,6 +2573,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 92
 Total Panels Painted: 92
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 1
 
@@ -2509,6 +2601,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 93
 Total Panels Painted: 93
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -2536,6 +2629,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 94
 Total Panels Painted: 94
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 1
 
@@ -2563,6 +2657,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 95
 Total Panels Painted: 95
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -2590,6 +2685,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 96
 Total Panels Painted: 96
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -2617,6 +2713,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 97
 Total Panels Painted: 97
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -2644,6 +2741,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 98
 Total Panels Painted: 98
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -2671,6 +2769,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 99
 Total Panels Painted: 99
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -2698,6 +2797,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 100
 Total Panels Painted: 100
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -2725,6 +2825,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 101
 Total Panels Painted: 101
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -2752,6 +2853,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 102
 Total Panels Painted: 102
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -2779,6 +2881,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 103
 Total Panels Painted: 103
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -2806,6 +2909,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 104
 Total Panels Painted: 104
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -2833,6 +2937,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 105
 Total Panels Painted: 105
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 1
 
@@ -2860,6 +2965,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 106
 Total Panels Painted: 106
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 1
 
@@ -2887,6 +2993,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 107
 Total Panels Painted: 107
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -2914,6 +3021,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 108
 Total Panels Painted: 108
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -2941,6 +3049,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 109
 Total Panels Painted: 109
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 1
 
@@ -2968,6 +3077,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 110
 Total Panels Painted: 110
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 1
 
@@ -2995,6 +3105,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 111
 Total Panels Painted: 111
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -3022,6 +3133,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 112
 Total Panels Painted: 112
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -3049,6 +3161,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 113
 Total Panels Painted: 113
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -3076,6 +3189,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 114
 Total Panels Painted: 114
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -3103,6 +3217,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 115
 Total Panels Painted: 115
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -3130,6 +3245,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 116
 Total Panels Painted: 116
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -3157,6 +3273,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 117
 Total Panels Painted: 117
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -3184,6 +3301,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 118
 Total Panels Painted: 118
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -3211,6 +3329,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 119
 Total Panels Painted: 119
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -3238,6 +3357,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 120
 Total Panels Painted: 120
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -3265,6 +3385,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 121
 Total Panels Painted: 121
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 1
 
@@ -3292,6 +3413,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 122
 Total Panels Painted: 122
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -3319,6 +3441,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 123
 Total Panels Painted: 123
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 1
 
@@ -3346,6 +3469,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 124
 Total Panels Painted: 124
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -3373,6 +3497,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 125
 Total Panels Painted: 125
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -3400,6 +3525,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 126
 Total Panels Painted: 126
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -3427,6 +3553,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 127
 Total Panels Painted: 127
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -3454,6 +3581,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 128
 Total Panels Painted: 128
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -3481,6 +3609,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 129
 Total Panels Painted: 129
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -3508,6 +3637,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 130
 Total Panels Painted: 130
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -3535,6 +3665,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 131
 Total Panels Painted: 131
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -3562,6 +3693,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 132
 Total Panels Painted: 132
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -3589,6 +3721,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 133
 Total Panels Painted: 133
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -3616,6 +3749,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 134
 Total Panels Painted: 134
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -3643,6 +3777,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 135
 Total Panels Painted: 135
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 1
 
@@ -3670,6 +3805,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 136
 Total Panels Painted: 136
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 1
 
@@ -3697,6 +3833,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 137
 Total Panels Painted: 137
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -3724,6 +3861,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 138
 Total Panels Painted: 138
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -3751,6 +3889,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 139
 Total Panels Painted: 139
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 1
 
@@ -3778,6 +3917,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 140
 Total Panels Painted: 140
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 1
 
@@ -3805,6 +3945,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 141
 Total Panels Painted: 141
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -3832,6 +3973,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 142
 Total Panels Painted: 142
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -3859,6 +4001,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 143
 Total Panels Painted: 143
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -3886,6 +4029,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 144
 Total Panels Painted: 144
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -3913,6 +4057,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 145
 Total Panels Painted: 145
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 1
 
@@ -3940,6 +4085,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 146
 Total Panels Painted: 146
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 1
 
@@ -3967,6 +4113,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 147
 Total Panels Painted: 147
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -3994,6 +4141,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 148
 Total Panels Painted: 148
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -4021,6 +4169,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 149
 Total Panels Painted: 149
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -4048,6 +4197,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 150
 Total Panels Painted: 150
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -4075,6 +4225,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 151
 Total Panels Painted: 151
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -4102,6 +4253,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 152
 Total Panels Painted: 152
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -4129,6 +4281,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 153
 Total Panels Painted: 153
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -4156,6 +4309,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 154
 Total Panels Painted: 154
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -4183,6 +4337,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 155
 Total Panels Painted: 155
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 1
 
@@ -4210,6 +4365,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 156
 Total Panels Painted: 156
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 1
 
@@ -4237,6 +4393,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 157
 Total Panels Painted: 157
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -4264,6 +4421,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 158
 Total Panels Painted: 158
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -4291,6 +4449,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 159
 Total Panels Painted: 159
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 1
 
@@ -4318,6 +4477,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 160
 Total Panels Painted: 160
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -4345,6 +4505,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 161
 Total Panels Painted: 161
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 1
 
@@ -4372,6 +4533,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 162
 Total Panels Painted: 162
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -4399,6 +4561,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 163
 Total Panels Painted: 163
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -4426,6 +4589,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 164
 Total Panels Painted: 164
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 1
 
@@ -4453,6 +4617,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 165
 Total Panels Painted: 165
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 1
 
@@ -4480,6 +4645,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 166
 Total Panels Painted: 166
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 1
 
@@ -4507,6 +4673,7 @@ Direction: <
 Curr Panel Color: 0
 Unique Panels Painted: 167
 Total Panels Painted: 167
+Bounds: (0, -3) --> (42, 0)
 10
 OUT 0
 
@@ -4534,6 +4701,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 168
 Total Panels Painted: 168
+Bounds: (0, -4) --> (42, 0)
 10
 OUT 0
 
@@ -4561,6 +4729,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 169
 Total Panels Painted: 169
+Bounds: (0, -4) --> (42, 0)
 10
 OUT 1
 
@@ -4588,6 +4757,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 170
 Total Panels Painted: 170
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 1
 
@@ -4615,6 +4785,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 171
 Total Panels Painted: 171
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 1
 
@@ -4642,6 +4813,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 172
 Total Panels Painted: 172
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -4669,6 +4841,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 173
 Total Panels Painted: 173
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -4696,6 +4869,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 174
 Total Panels Painted: 174
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 1
 
@@ -4723,6 +4897,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 175
 Total Panels Painted: 175
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -4750,6 +4925,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 176
 Total Panels Painted: 176
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 1
 
@@ -4777,6 +4953,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 177
 Total Panels Painted: 177
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -4804,6 +4981,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 178
 Total Panels Painted: 178
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -4831,6 +5009,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 179
 Total Panels Painted: 179
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 1
 
@@ -4858,6 +5037,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 180
 Total Panels Painted: 180
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 1
 
@@ -4885,6 +5065,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 181
 Total Panels Painted: 181
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -4912,6 +5093,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 182
 Total Panels Painted: 182
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 1
 
@@ -4939,6 +5121,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 183
 Total Panels Painted: 183
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 1
 
@@ -4966,6 +5149,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 184
 Total Panels Painted: 184
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -4993,6 +5177,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 185
 Total Panels Painted: 185
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -5020,6 +5205,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 186
 Total Panels Painted: 186
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 1
 
@@ -5047,6 +5233,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 187
 Total Panels Painted: 187
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -5074,6 +5261,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 188
 Total Panels Painted: 188
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -5101,6 +5289,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 189
 Total Panels Painted: 189
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 1
 
@@ -5128,6 +5317,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 190
 Total Panels Painted: 190
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -5155,6 +5345,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 191
 Total Panels Painted: 191
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 1
 
@@ -5182,6 +5373,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 192
 Total Panels Painted: 192
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -5209,6 +5401,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 193
 Total Panels Painted: 193
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -5236,6 +5429,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 194
 Total Panels Painted: 194
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 1
 
@@ -5263,6 +5457,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 195
 Total Panels Painted: 195
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -5290,6 +5485,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 196
 Total Panels Painted: 196
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 1
 
@@ -5317,6 +5513,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 197
 Total Panels Painted: 197
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -5344,6 +5541,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 198
 Total Panels Painted: 198
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -5371,6 +5569,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 199
 Total Panels Painted: 199
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 1
 
@@ -5398,6 +5597,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 200
 Total Panels Painted: 200
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 1
 
@@ -5425,6 +5625,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 201
 Total Panels Painted: 201
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -5452,6 +5653,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 202
 Total Panels Painted: 202
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 1
 
@@ -5479,6 +5681,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 203
 Total Panels Painted: 203
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 1
 
@@ -5506,6 +5709,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 204
 Total Panels Painted: 204
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -5533,6 +5737,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 205
 Total Panels Painted: 205
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -5560,6 +5765,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 206
 Total Panels Painted: 206
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 1
 
@@ -5587,6 +5793,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 207
 Total Panels Painted: 207
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -5614,6 +5821,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 208
 Total Panels Painted: 208
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -5641,6 +5849,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 209
 Total Panels Painted: 209
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 1
 
@@ -5668,6 +5877,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 210
 Total Panels Painted: 210
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 1
 
@@ -5695,6 +5905,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 211
 Total Panels Painted: 211
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 1
 
@@ -5722,6 +5933,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 212
 Total Panels Painted: 212
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -5749,6 +5961,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 213
 Total Panels Painted: 213
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -5776,6 +5989,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 214
 Total Panels Painted: 214
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 1
 
@@ -5803,6 +6017,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 215
 Total Panels Painted: 215
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 1
 
@@ -5830,6 +6045,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 216
 Total Panels Painted: 216
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -5857,6 +6073,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 217
 Total Panels Painted: 217
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -5884,6 +6101,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 218
 Total Panels Painted: 218
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -5911,6 +6129,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 219
 Total Panels Painted: 219
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -5938,6 +6157,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 220
 Total Panels Painted: 220
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 1
 
@@ -5965,6 +6185,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 221
 Total Panels Painted: 221
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -5992,6 +6213,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 222
 Total Panels Painted: 222
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 1
 
@@ -6019,6 +6241,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 223
 Total Panels Painted: 223
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 1
 
@@ -6046,6 +6269,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 224
 Total Panels Painted: 224
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -6073,6 +6297,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 225
 Total Panels Painted: 225
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 1
 
@@ -6100,6 +6325,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 226
 Total Panels Painted: 226
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -6127,6 +6353,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 227
 Total Panels Painted: 227
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -6154,6 +6381,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 228
 Total Panels Painted: 228
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -6181,6 +6409,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 229
 Total Panels Painted: 229
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 1
 
@@ -6208,6 +6437,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 230
 Total Panels Painted: 230
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 1
 
@@ -6235,6 +6465,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 231
 Total Panels Painted: 231
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 1
 
@@ -6262,6 +6493,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 232
 Total Panels Painted: 232
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -6289,6 +6521,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 233
 Total Panels Painted: 233
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -6316,6 +6549,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 234
 Total Panels Painted: 234
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 1
 
@@ -6343,6 +6577,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 235
 Total Panels Painted: 235
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 1
 
@@ -6370,6 +6605,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 236
 Total Panels Painted: 236
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -6397,6 +6633,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 237
 Total Panels Painted: 237
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -6424,6 +6661,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 238
 Total Panels Painted: 238
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -6451,6 +6689,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 239
 Total Panels Painted: 239
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 1
 
@@ -6478,6 +6717,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 240
 Total Panels Painted: 240
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 1
 
@@ -6505,6 +6745,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 241
 Total Panels Painted: 241
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -6532,6 +6773,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 242
 Total Panels Painted: 242
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 1
 
@@ -6559,6 +6801,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 243
 Total Panels Painted: 243
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 1
 
@@ -6586,6 +6829,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 244
 Total Panels Painted: 244
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -6613,6 +6857,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 245
 Total Panels Painted: 245
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -6640,6 +6885,7 @@ Direction: v
 Curr Panel Color: 0
 Unique Panels Painted: 246
 Total Panels Painted: 246
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 1
 
@@ -6667,6 +6913,7 @@ Direction: >
 Curr Panel Color: 0
 Unique Panels Painted: 247
 Total Panels Painted: 247
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -6694,6 +6941,7 @@ Direction: ^
 Curr Panel Color: 0
 Unique Panels Painted: 248
 Total Panels Painted: 248
+Bounds: (0, -5) --> (42, 0)
 10
 OUT 0
 
@@ -6711,4 +6959,9 @@ OUT 1
 ********************
 
 
-defaultdict(<class 'int'>, {(0, 0): 0, (1, 0): 1, (1, -1): 1, (2, -1): 0, (2, 0): 1, (3, 0): 1, (3, -1): 0, (4, -1): 1, (4, 0): 0, (5, 0): 0, (5, -1): 0, (6, -1): 1, (6, 0): 1, (7, 0): 0, (7, -1): 0, (8, -1): 0, (8, 0): 0, (9, 0): 0, (9, -1): 0, (10, -1): 0, (10, 0): 0, (11, 0): 1, (11, -1): 1, (12, -1): 0, (12, 0): 0, (13, 0): 0, (13, -1): 0, (14, -1): 1, (14, 0): 1, (15, 0): 0, (15, -1): 0, (16, -1): 1, (16, 0): 1, (17, 0): 0, (17, -1): 0, (18, -1): 0, (18, 0): 0, (19, 0): 0, (19, -1): 0, (20, -1): 0, (20, 0): 0, (21, 0): 1, (21, -1): 0, (22, -1): 0, (22, 0): 1, (23, 0): 1, (23, -1): 0, (24, -1): 1, (24, 0): 1, (25, 0): 0, (25, -1): 0, (26, -1): 0, (26, 0): 0, (27, 0): 0, (27, -1): 0, (28, -1): 0, (28, 0): 1, (29, 0): 1, (29, -1): 1, (30, -1): 0, (30, 0): 0, (31, 0): 1, (31, -1): 1, (32, -1): 0, (32, 0): 0, (33, 0): 0, (33, -1): 0, (34, -1): 0, (34, 0): 0, (35, 0): 0, (35, -1): 0, (36, -1): 0, (36, 0): 1, (37, 0): 1, (37, -1): 0, (38, -1): 0, (38, 0): 1, (39, 0): 1, (39, -1): 1, (40, -1): 0, (40, 0): 0, (41, 0): 0, (41, -1): 0, (42, -1): 0, (42, -2): 0, (41, -2): 0, (41, -3): 0, (40, -3): 0, (40, -2): 0, (39, -2): 0, (39, -3): 0, (38, -3): 0, (38, -2): 1, (37, -2): 0, (37, -3): 1, (36, -3): 0, (36, -2): 0, (35, -2): 0, (35, -3): 0, (34, -3): 0, (34, -2): 0, (33, -2): 0, (33, -3): 0, (32, -3): 0, (32, -2): 0, (31, -2): 1, (31, -3): 1, (30, -3): 0, (30, -2): 0, (29, -2): 1, (29, -3): 1, (28, -3): 0, (28, -2): 0, (27, -2): 0, (27, -3): 0, (26, -3): 0, (26, -2): 0, (25, -2): 0, (25, -3): 0, (24, -3): 0, (24, -2): 0, (23, -2): 1, (23, -3): 0, (22, -3): 1, (22, -2): 0, (21, -2): 0, (21, -3): 0, (20, -3): 0, (20, -2): 0, (19, -2): 0, (19, -3): 0, (18, -3): 0, (18, -2): 0, (17, -2): 0, (17, -3): 0, (16, -3): 1, (16, -2): 1, (15, -2): 0, (15, -3): 0, (14, -3): 1, (14, -2): 1, (13, -2): 0, (13, -3): 0, (12, -3): 0, (12, -2): 0, (11, -2): 1, (11, -3): 1, (10, -3): 0, (10, -2): 0, (9, -2): 0, (9, -3): 0, (8, -3): 0, (8, -2): 0, (7, -2): 0, (7, -3): 0, (6, -3): 1, (6, -2): 1, (5, -2): 0, (5, -3): 0, (4, -3): 1, (4, -2): 0, (3, -2): 1, (3, -3): 0, (2, -3): 0, (2, -2): 1, (1, -2): 1, (1, -3): 1, (0, -3): 0, (0, -4): 0, (1, -4): 1, (1, -5): 1, (2, -5): 1, (2, -4): 0, (3, -4): 0, (3, -5): 1, (4, -5): 0, (4, -4): 1, (5, -4): 0, (5, -5): 0, (6, -5): 1, (6, -4): 1, (7, -4): 0, (7, -5): 1, (8, -5): 1, (8, -4): 0, (9, -4): 0, (9, -5): 1, (10, -5): 0, (10, -4): 0, (11, -4): 1, (11, -5): 0, (12, -5): 1, (12, -4): 0, (13, -4): 0, (13, -5): 1, (14, -5): 0, (14, -4): 1, (15, -4): 0, (15, -5): 0, (16, -5): 1, (16, -4): 1, (17, -4): 0, (17, -5): 1, (18, -5): 1, (18, -4): 0, (19, -4): 0, (19, -5): 1, (20, -5): 0, (20, -4): 0, (21, -4): 1, (21, -5): 1, (22, -5): 1, (22, -4): 0, (23, -4): 0, (23, -5): 1, (24, -5): 1, (24, -4): 0, (25, -4): 0, (25, -5): 0, (26, -5): 0, (26, -4): 1, (27, -4): 0, (27, -5): 1, (28, -5): 1, (28, -4): 0, (29, -4): 1, (29, -5): 0, (30, -5): 0, (30, -4): 0, (31, -4): 1, (31, -5): 1, (32, -5): 1, (32, -4): 0, (33, -4): 0, (33, -5): 1, (34, -5): 1, (34, -4): 0, (35, -4): 0, (35, -5): 0, (36, -5): 1, (36, -4): 1, (37, -4): 0, (37, -5): 1, (38, -5): 1, (38, -4): 0, (39, -4): 0, (39, -5): 1, (40, -5): 0, (40, -4): 0})
+ ###  #    #  # #    ####   ## #    ####  
+ #  # #    #  # #       #    # #       #  
+ ###  #    #  # #      #     # #      #   
+ #  # #    #  # #     #      # #     #    
+ #  # #    #  # #    #    #  # #    #     
+ ###  ####  ##  #### ####  ##  #### ####  
