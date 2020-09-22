@@ -1,0 +1,6714 @@
+8
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #1
+--------------------
+Location: (1, 0)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 1
+Total Panels Painted: 1
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #2
+--------------------
+Location: (1, -1)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 2
+Total Panels Painted: 2
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #3
+--------------------
+Location: (2, -1)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 3
+Total Panels Painted: 3
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #4
+--------------------
+Location: (2, 0)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 4
+Total Panels Painted: 4
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #5
+--------------------
+Location: (3, 0)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 5
+Total Panels Painted: 5
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #6
+--------------------
+Location: (3, -1)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 6
+Total Panels Painted: 6
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #7
+--------------------
+Location: (4, -1)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 7
+Total Panels Painted: 7
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #8
+--------------------
+Location: (4, 0)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 8
+Total Panels Painted: 8
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #9
+--------------------
+Location: (5, 0)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 9
+Total Panels Painted: 9
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #10
+--------------------
+Location: (5, -1)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 10
+Total Panels Painted: 10
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #11
+--------------------
+Location: (6, -1)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 11
+Total Panels Painted: 11
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #12
+--------------------
+Location: (6, 0)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 12
+Total Panels Painted: 12
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #13
+--------------------
+Location: (7, 0)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 13
+Total Panels Painted: 13
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #14
+--------------------
+Location: (7, -1)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 14
+Total Panels Painted: 14
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #15
+--------------------
+Location: (8, -1)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 15
+Total Panels Painted: 15
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #16
+--------------------
+Location: (8, 0)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 16
+Total Panels Painted: 16
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #17
+--------------------
+Location: (9, 0)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 17
+Total Panels Painted: 17
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #18
+--------------------
+Location: (9, -1)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 18
+Total Panels Painted: 18
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #19
+--------------------
+Location: (10, -1)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 19
+Total Panels Painted: 19
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #20
+--------------------
+Location: (10, 0)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 20
+Total Panels Painted: 20
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #21
+--------------------
+Location: (11, 0)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 21
+Total Panels Painted: 21
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #22
+--------------------
+Location: (11, -1)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 22
+Total Panels Painted: 22
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #23
+--------------------
+Location: (12, -1)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 23
+Total Panels Painted: 23
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #24
+--------------------
+Location: (12, 0)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 24
+Total Panels Painted: 24
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #25
+--------------------
+Location: (13, 0)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 25
+Total Panels Painted: 25
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #26
+--------------------
+Location: (13, -1)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 26
+Total Panels Painted: 26
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #27
+--------------------
+Location: (14, -1)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 27
+Total Panels Painted: 27
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #28
+--------------------
+Location: (14, 0)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 28
+Total Panels Painted: 28
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #29
+--------------------
+Location: (15, 0)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 29
+Total Panels Painted: 29
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #30
+--------------------
+Location: (15, -1)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 30
+Total Panels Painted: 30
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #31
+--------------------
+Location: (16, -1)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 31
+Total Panels Painted: 31
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #32
+--------------------
+Location: (16, 0)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 32
+Total Panels Painted: 32
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #33
+--------------------
+Location: (17, 0)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 33
+Total Panels Painted: 33
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #34
+--------------------
+Location: (17, -1)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 34
+Total Panels Painted: 34
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #35
+--------------------
+Location: (18, -1)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 35
+Total Panels Painted: 35
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #36
+--------------------
+Location: (18, 0)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 36
+Total Panels Painted: 36
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #37
+--------------------
+Location: (19, 0)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 37
+Total Panels Painted: 37
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #38
+--------------------
+Location: (19, -1)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 38
+Total Panels Painted: 38
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #39
+--------------------
+Location: (20, -1)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 39
+Total Panels Painted: 39
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #40
+--------------------
+Location: (20, 0)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 40
+Total Panels Painted: 40
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #41
+--------------------
+Location: (21, 0)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 41
+Total Panels Painted: 41
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #42
+--------------------
+Location: (21, -1)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 42
+Total Panels Painted: 42
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #43
+--------------------
+Location: (22, -1)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 43
+Total Panels Painted: 43
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #44
+--------------------
+Location: (22, 0)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 44
+Total Panels Painted: 44
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #45
+--------------------
+Location: (23, 0)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 45
+Total Panels Painted: 45
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #46
+--------------------
+Location: (23, -1)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 46
+Total Panels Painted: 46
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #47
+--------------------
+Location: (24, -1)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 47
+Total Panels Painted: 47
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #48
+--------------------
+Location: (24, 0)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 48
+Total Panels Painted: 48
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #49
+--------------------
+Location: (25, 0)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 49
+Total Panels Painted: 49
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #50
+--------------------
+Location: (25, -1)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 50
+Total Panels Painted: 50
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #51
+--------------------
+Location: (26, -1)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 51
+Total Panels Painted: 51
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #52
+--------------------
+Location: (26, 0)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 52
+Total Panels Painted: 52
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #53
+--------------------
+Location: (27, 0)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 53
+Total Panels Painted: 53
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #54
+--------------------
+Location: (27, -1)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 54
+Total Panels Painted: 54
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #55
+--------------------
+Location: (28, -1)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 55
+Total Panels Painted: 55
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #56
+--------------------
+Location: (28, 0)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 56
+Total Panels Painted: 56
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #57
+--------------------
+Location: (29, 0)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 57
+Total Panels Painted: 57
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #58
+--------------------
+Location: (29, -1)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 58
+Total Panels Painted: 58
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #59
+--------------------
+Location: (30, -1)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 59
+Total Panels Painted: 59
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #60
+--------------------
+Location: (30, 0)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 60
+Total Panels Painted: 60
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #61
+--------------------
+Location: (31, 0)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 61
+Total Panels Painted: 61
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #62
+--------------------
+Location: (31, -1)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 62
+Total Panels Painted: 62
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #63
+--------------------
+Location: (32, -1)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 63
+Total Panels Painted: 63
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #64
+--------------------
+Location: (32, 0)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 64
+Total Panels Painted: 64
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #65
+--------------------
+Location: (33, 0)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 65
+Total Panels Painted: 65
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #66
+--------------------
+Location: (33, -1)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 66
+Total Panels Painted: 66
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #67
+--------------------
+Location: (34, -1)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 67
+Total Panels Painted: 67
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #68
+--------------------
+Location: (34, 0)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 68
+Total Panels Painted: 68
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #69
+--------------------
+Location: (35, 0)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 69
+Total Panels Painted: 69
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #70
+--------------------
+Location: (35, -1)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 70
+Total Panels Painted: 70
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #71
+--------------------
+Location: (36, -1)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 71
+Total Panels Painted: 71
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #72
+--------------------
+Location: (36, 0)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 72
+Total Panels Painted: 72
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #73
+--------------------
+Location: (37, 0)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 73
+Total Panels Painted: 73
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #74
+--------------------
+Location: (37, -1)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 74
+Total Panels Painted: 74
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #75
+--------------------
+Location: (38, -1)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 75
+Total Panels Painted: 75
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #76
+--------------------
+Location: (38, 0)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 76
+Total Panels Painted: 76
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #77
+--------------------
+Location: (39, 0)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 77
+Total Panels Painted: 77
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #78
+--------------------
+Location: (39, -1)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 78
+Total Panels Painted: 78
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #79
+--------------------
+Location: (40, -1)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 79
+Total Panels Painted: 79
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #80
+--------------------
+Location: (40, 0)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 80
+Total Panels Painted: 80
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #81
+--------------------
+Location: (41, 0)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 81
+Total Panels Painted: 81
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #82
+--------------------
+Location: (41, -1)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 82
+Total Panels Painted: 82
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #83
+--------------------
+Location: (42, -1)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 83
+Total Panels Painted: 83
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #84
+--------------------
+Location: (42, -2)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 84
+Total Panels Painted: 84
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #85
+--------------------
+Location: (41, -2)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 85
+Total Panels Painted: 85
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #86
+--------------------
+Location: (41, -3)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 86
+Total Panels Painted: 86
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #87
+--------------------
+Location: (40, -3)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 87
+Total Panels Painted: 87
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #88
+--------------------
+Location: (40, -2)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 88
+Total Panels Painted: 88
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #89
+--------------------
+Location: (39, -2)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 89
+Total Panels Painted: 89
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #90
+--------------------
+Location: (39, -3)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 90
+Total Panels Painted: 90
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #91
+--------------------
+Location: (38, -3)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 91
+Total Panels Painted: 91
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #92
+--------------------
+Location: (38, -2)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 92
+Total Panels Painted: 92
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #93
+--------------------
+Location: (37, -2)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 93
+Total Panels Painted: 93
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #94
+--------------------
+Location: (37, -3)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 94
+Total Panels Painted: 94
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #95
+--------------------
+Location: (36, -3)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 95
+Total Panels Painted: 95
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #96
+--------------------
+Location: (36, -2)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 96
+Total Panels Painted: 96
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #97
+--------------------
+Location: (35, -2)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 97
+Total Panels Painted: 97
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #98
+--------------------
+Location: (35, -3)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 98
+Total Panels Painted: 98
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #99
+--------------------
+Location: (34, -3)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 99
+Total Panels Painted: 99
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #100
+--------------------
+Location: (34, -2)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 100
+Total Panels Painted: 100
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #101
+--------------------
+Location: (33, -2)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 101
+Total Panels Painted: 101
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #102
+--------------------
+Location: (33, -3)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 102
+Total Panels Painted: 102
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #103
+--------------------
+Location: (32, -3)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 103
+Total Panels Painted: 103
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #104
+--------------------
+Location: (32, -2)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 104
+Total Panels Painted: 104
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #105
+--------------------
+Location: (31, -2)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 105
+Total Panels Painted: 105
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #106
+--------------------
+Location: (31, -3)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 106
+Total Panels Painted: 106
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #107
+--------------------
+Location: (30, -3)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 107
+Total Panels Painted: 107
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #108
+--------------------
+Location: (30, -2)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 108
+Total Panels Painted: 108
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #109
+--------------------
+Location: (29, -2)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 109
+Total Panels Painted: 109
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #110
+--------------------
+Location: (29, -3)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 110
+Total Panels Painted: 110
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #111
+--------------------
+Location: (28, -3)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 111
+Total Panels Painted: 111
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #112
+--------------------
+Location: (28, -2)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 112
+Total Panels Painted: 112
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #113
+--------------------
+Location: (27, -2)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 113
+Total Panels Painted: 113
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #114
+--------------------
+Location: (27, -3)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 114
+Total Panels Painted: 114
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #115
+--------------------
+Location: (26, -3)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 115
+Total Panels Painted: 115
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #116
+--------------------
+Location: (26, -2)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 116
+Total Panels Painted: 116
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #117
+--------------------
+Location: (25, -2)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 117
+Total Panels Painted: 117
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #118
+--------------------
+Location: (25, -3)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 118
+Total Panels Painted: 118
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #119
+--------------------
+Location: (24, -3)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 119
+Total Panels Painted: 119
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #120
+--------------------
+Location: (24, -2)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 120
+Total Panels Painted: 120
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #121
+--------------------
+Location: (23, -2)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 121
+Total Panels Painted: 121
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #122
+--------------------
+Location: (23, -3)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 122
+Total Panels Painted: 122
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #123
+--------------------
+Location: (22, -3)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 123
+Total Panels Painted: 123
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #124
+--------------------
+Location: (22, -2)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 124
+Total Panels Painted: 124
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #125
+--------------------
+Location: (21, -2)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 125
+Total Panels Painted: 125
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #126
+--------------------
+Location: (21, -3)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 126
+Total Panels Painted: 126
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #127
+--------------------
+Location: (20, -3)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 127
+Total Panels Painted: 127
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #128
+--------------------
+Location: (20, -2)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 128
+Total Panels Painted: 128
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #129
+--------------------
+Location: (19, -2)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 129
+Total Panels Painted: 129
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #130
+--------------------
+Location: (19, -3)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 130
+Total Panels Painted: 130
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #131
+--------------------
+Location: (18, -3)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 131
+Total Panels Painted: 131
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #132
+--------------------
+Location: (18, -2)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 132
+Total Panels Painted: 132
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #133
+--------------------
+Location: (17, -2)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 133
+Total Panels Painted: 133
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #134
+--------------------
+Location: (17, -3)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 134
+Total Panels Painted: 134
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #135
+--------------------
+Location: (16, -3)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 135
+Total Panels Painted: 135
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #136
+--------------------
+Location: (16, -2)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 136
+Total Panels Painted: 136
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #137
+--------------------
+Location: (15, -2)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 137
+Total Panels Painted: 137
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #138
+--------------------
+Location: (15, -3)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 138
+Total Panels Painted: 138
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #139
+--------------------
+Location: (14, -3)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 139
+Total Panels Painted: 139
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #140
+--------------------
+Location: (14, -2)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 140
+Total Panels Painted: 140
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #141
+--------------------
+Location: (13, -2)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 141
+Total Panels Painted: 141
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #142
+--------------------
+Location: (13, -3)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 142
+Total Panels Painted: 142
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #143
+--------------------
+Location: (12, -3)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 143
+Total Panels Painted: 143
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #144
+--------------------
+Location: (12, -2)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 144
+Total Panels Painted: 144
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #145
+--------------------
+Location: (11, -2)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 145
+Total Panels Painted: 145
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #146
+--------------------
+Location: (11, -3)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 146
+Total Panels Painted: 146
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #147
+--------------------
+Location: (10, -3)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 147
+Total Panels Painted: 147
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #148
+--------------------
+Location: (10, -2)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 148
+Total Panels Painted: 148
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #149
+--------------------
+Location: (9, -2)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 149
+Total Panels Painted: 149
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #150
+--------------------
+Location: (9, -3)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 150
+Total Panels Painted: 150
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #151
+--------------------
+Location: (8, -3)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 151
+Total Panels Painted: 151
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #152
+--------------------
+Location: (8, -2)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 152
+Total Panels Painted: 152
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #153
+--------------------
+Location: (7, -2)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 153
+Total Panels Painted: 153
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #154
+--------------------
+Location: (7, -3)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 154
+Total Panels Painted: 154
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #155
+--------------------
+Location: (6, -3)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 155
+Total Panels Painted: 155
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #156
+--------------------
+Location: (6, -2)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 156
+Total Panels Painted: 156
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #157
+--------------------
+Location: (5, -2)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 157
+Total Panels Painted: 157
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #158
+--------------------
+Location: (5, -3)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 158
+Total Panels Painted: 158
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #159
+--------------------
+Location: (4, -3)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 159
+Total Panels Painted: 159
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #160
+--------------------
+Location: (4, -2)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 160
+Total Panels Painted: 160
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #161
+--------------------
+Location: (3, -2)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 161
+Total Panels Painted: 161
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #162
+--------------------
+Location: (3, -3)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 162
+Total Panels Painted: 162
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #163
+--------------------
+Location: (2, -3)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 163
+Total Panels Painted: 163
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #164
+--------------------
+Location: (2, -2)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 164
+Total Panels Painted: 164
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #165
+--------------------
+Location: (1, -2)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 165
+Total Panels Painted: 165
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #166
+--------------------
+Location: (1, -3)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 166
+Total Panels Painted: 166
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #167
+--------------------
+Location: (0, -3)
+Direction: <
+Curr Panel Color: 0
+Unique Panels Painted: 167
+Total Panels Painted: 167
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #168
+--------------------
+Location: (0, -4)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 168
+Total Panels Painted: 168
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #169
+--------------------
+Location: (1, -4)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 169
+Total Panels Painted: 169
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #170
+--------------------
+Location: (1, -5)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 170
+Total Panels Painted: 170
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #171
+--------------------
+Location: (2, -5)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 171
+Total Panels Painted: 171
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #172
+--------------------
+Location: (2, -4)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 172
+Total Panels Painted: 172
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #173
+--------------------
+Location: (3, -4)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 173
+Total Panels Painted: 173
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #174
+--------------------
+Location: (3, -5)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 174
+Total Panels Painted: 174
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #175
+--------------------
+Location: (4, -5)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 175
+Total Panels Painted: 175
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #176
+--------------------
+Location: (4, -4)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 176
+Total Panels Painted: 176
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #177
+--------------------
+Location: (5, -4)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 177
+Total Panels Painted: 177
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #178
+--------------------
+Location: (5, -5)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 178
+Total Panels Painted: 178
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #179
+--------------------
+Location: (6, -5)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 179
+Total Panels Painted: 179
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #180
+--------------------
+Location: (6, -4)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 180
+Total Panels Painted: 180
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #181
+--------------------
+Location: (7, -4)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 181
+Total Panels Painted: 181
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #182
+--------------------
+Location: (7, -5)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 182
+Total Panels Painted: 182
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #183
+--------------------
+Location: (8, -5)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 183
+Total Panels Painted: 183
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #184
+--------------------
+Location: (8, -4)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 184
+Total Panels Painted: 184
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #185
+--------------------
+Location: (9, -4)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 185
+Total Panels Painted: 185
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #186
+--------------------
+Location: (9, -5)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 186
+Total Panels Painted: 186
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #187
+--------------------
+Location: (10, -5)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 187
+Total Panels Painted: 187
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #188
+--------------------
+Location: (10, -4)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 188
+Total Panels Painted: 188
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #189
+--------------------
+Location: (11, -4)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 189
+Total Panels Painted: 189
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #190
+--------------------
+Location: (11, -5)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 190
+Total Panels Painted: 190
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #191
+--------------------
+Location: (12, -5)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 191
+Total Panels Painted: 191
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #192
+--------------------
+Location: (12, -4)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 192
+Total Panels Painted: 192
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #193
+--------------------
+Location: (13, -4)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 193
+Total Panels Painted: 193
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #194
+--------------------
+Location: (13, -5)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 194
+Total Panels Painted: 194
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #195
+--------------------
+Location: (14, -5)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 195
+Total Panels Painted: 195
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #196
+--------------------
+Location: (14, -4)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 196
+Total Panels Painted: 196
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #197
+--------------------
+Location: (15, -4)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 197
+Total Panels Painted: 197
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #198
+--------------------
+Location: (15, -5)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 198
+Total Panels Painted: 198
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #199
+--------------------
+Location: (16, -5)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 199
+Total Panels Painted: 199
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #200
+--------------------
+Location: (16, -4)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 200
+Total Panels Painted: 200
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #201
+--------------------
+Location: (17, -4)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 201
+Total Panels Painted: 201
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #202
+--------------------
+Location: (17, -5)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 202
+Total Panels Painted: 202
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #203
+--------------------
+Location: (18, -5)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 203
+Total Panels Painted: 203
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #204
+--------------------
+Location: (18, -4)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 204
+Total Panels Painted: 204
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #205
+--------------------
+Location: (19, -4)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 205
+Total Panels Painted: 205
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #206
+--------------------
+Location: (19, -5)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 206
+Total Panels Painted: 206
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #207
+--------------------
+Location: (20, -5)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 207
+Total Panels Painted: 207
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #208
+--------------------
+Location: (20, -4)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 208
+Total Panels Painted: 208
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #209
+--------------------
+Location: (21, -4)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 209
+Total Panels Painted: 209
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #210
+--------------------
+Location: (21, -5)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 210
+Total Panels Painted: 210
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #211
+--------------------
+Location: (22, -5)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 211
+Total Panels Painted: 211
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #212
+--------------------
+Location: (22, -4)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 212
+Total Panels Painted: 212
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #213
+--------------------
+Location: (23, -4)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 213
+Total Panels Painted: 213
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #214
+--------------------
+Location: (23, -5)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 214
+Total Panels Painted: 214
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #215
+--------------------
+Location: (24, -5)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 215
+Total Panels Painted: 215
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #216
+--------------------
+Location: (24, -4)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 216
+Total Panels Painted: 216
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #217
+--------------------
+Location: (25, -4)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 217
+Total Panels Painted: 217
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #218
+--------------------
+Location: (25, -5)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 218
+Total Panels Painted: 218
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #219
+--------------------
+Location: (26, -5)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 219
+Total Panels Painted: 219
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #220
+--------------------
+Location: (26, -4)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 220
+Total Panels Painted: 220
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #221
+--------------------
+Location: (27, -4)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 221
+Total Panels Painted: 221
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #222
+--------------------
+Location: (27, -5)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 222
+Total Panels Painted: 222
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #223
+--------------------
+Location: (28, -5)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 223
+Total Panels Painted: 223
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #224
+--------------------
+Location: (28, -4)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 224
+Total Panels Painted: 224
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #225
+--------------------
+Location: (29, -4)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 225
+Total Panels Painted: 225
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #226
+--------------------
+Location: (29, -5)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 226
+Total Panels Painted: 226
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #227
+--------------------
+Location: (30, -5)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 227
+Total Panels Painted: 227
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #228
+--------------------
+Location: (30, -4)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 228
+Total Panels Painted: 228
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #229
+--------------------
+Location: (31, -4)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 229
+Total Panels Painted: 229
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #230
+--------------------
+Location: (31, -5)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 230
+Total Panels Painted: 230
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #231
+--------------------
+Location: (32, -5)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 231
+Total Panels Painted: 231
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #232
+--------------------
+Location: (32, -4)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 232
+Total Panels Painted: 232
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #233
+--------------------
+Location: (33, -4)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 233
+Total Panels Painted: 233
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #234
+--------------------
+Location: (33, -5)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 234
+Total Panels Painted: 234
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #235
+--------------------
+Location: (34, -5)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 235
+Total Panels Painted: 235
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #236
+--------------------
+Location: (34, -4)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 236
+Total Panels Painted: 236
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #237
+--------------------
+Location: (35, -4)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 237
+Total Panels Painted: 237
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #238
+--------------------
+Location: (35, -5)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 238
+Total Panels Painted: 238
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #239
+--------------------
+Location: (36, -5)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 239
+Total Panels Painted: 239
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #240
+--------------------
+Location: (36, -4)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 240
+Total Panels Painted: 240
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #241
+--------------------
+Location: (37, -4)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 241
+Total Panels Painted: 241
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #242
+--------------------
+Location: (37, -5)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 242
+Total Panels Painted: 242
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #243
+--------------------
+Location: (38, -5)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 243
+Total Panels Painted: 243
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #244
+--------------------
+Location: (38, -4)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 244
+Total Panels Painted: 244
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #245
+--------------------
+Location: (39, -4)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 245
+Total Panels Painted: 245
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+
+
+
+Move #246
+--------------------
+Location: (39, -5)
+Direction: v
+Curr Panel Color: 0
+Unique Panels Painted: 246
+Total Panels Painted: 246
+10
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #247
+--------------------
+Location: (40, -5)
+Direction: >
+Curr Panel Color: 0
+Unique Panels Painted: 247
+Total Panels Painted: 247
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+
+
+
+Move #248
+--------------------
+Location: (40, -4)
+Direction: ^
+Curr Panel Color: 0
+Unique Panels Painted: 248
+Total Panels Painted: 248
+10
+OUT 0
+
+
+********************
+* OUTPUT: 0
+********************
+
+
+OUT 1
+
+
+********************
+* OUTPUT: 1
+********************
+
+
+defaultdict(<class 'int'>, {(0, 0): 0, (1, 0): 1, (1, -1): 1, (2, -1): 0, (2, 0): 1, (3, 0): 1, (3, -1): 0, (4, -1): 1, (4, 0): 0, (5, 0): 0, (5, -1): 0, (6, -1): 1, (6, 0): 1, (7, 0): 0, (7, -1): 0, (8, -1): 0, (8, 0): 0, (9, 0): 0, (9, -1): 0, (10, -1): 0, (10, 0): 0, (11, 0): 1, (11, -1): 1, (12, -1): 0, (12, 0): 0, (13, 0): 0, (13, -1): 0, (14, -1): 1, (14, 0): 1, (15, 0): 0, (15, -1): 0, (16, -1): 1, (16, 0): 1, (17, 0): 0, (17, -1): 0, (18, -1): 0, (18, 0): 0, (19, 0): 0, (19, -1): 0, (20, -1): 0, (20, 0): 0, (21, 0): 1, (21, -1): 0, (22, -1): 0, (22, 0): 1, (23, 0): 1, (23, -1): 0, (24, -1): 1, (24, 0): 1, (25, 0): 0, (25, -1): 0, (26, -1): 0, (26, 0): 0, (27, 0): 0, (27, -1): 0, (28, -1): 0, (28, 0): 1, (29, 0): 1, (29, -1): 1, (30, -1): 0, (30, 0): 0, (31, 0): 1, (31, -1): 1, (32, -1): 0, (32, 0): 0, (33, 0): 0, (33, -1): 0, (34, -1): 0, (34, 0): 0, (35, 0): 0, (35, -1): 0, (36, -1): 0, (36, 0): 1, (37, 0): 1, (37, -1): 0, (38, -1): 0, (38, 0): 1, (39, 0): 1, (39, -1): 1, (40, -1): 0, (40, 0): 0, (41, 0): 0, (41, -1): 0, (42, -1): 0, (42, -2): 0, (41, -2): 0, (41, -3): 0, (40, -3): 0, (40, -2): 0, (39, -2): 0, (39, -3): 0, (38, -3): 0, (38, -2): 1, (37, -2): 0, (37, -3): 1, (36, -3): 0, (36, -2): 0, (35, -2): 0, (35, -3): 0, (34, -3): 0, (34, -2): 0, (33, -2): 0, (33, -3): 0, (32, -3): 0, (32, -2): 0, (31, -2): 1, (31, -3): 1, (30, -3): 0, (30, -2): 0, (29, -2): 1, (29, -3): 1, (28, -3): 0, (28, -2): 0, (27, -2): 0, (27, -3): 0, (26, -3): 0, (26, -2): 0, (25, -2): 0, (25, -3): 0, (24, -3): 0, (24, -2): 0, (23, -2): 1, (23, -3): 0, (22, -3): 1, (22, -2): 0, (21, -2): 0, (21, -3): 0, (20, -3): 0, (20, -2): 0, (19, -2): 0, (19, -3): 0, (18, -3): 0, (18, -2): 0, (17, -2): 0, (17, -3): 0, (16, -3): 1, (16, -2): 1, (15, -2): 0, (15, -3): 0, (14, -3): 1, (14, -2): 1, (13, -2): 0, (13, -3): 0, (12, -3): 0, (12, -2): 0, (11, -2): 1, (11, -3): 1, (10, -3): 0, (10, -2): 0, (9, -2): 0, (9, -3): 0, (8, -3): 0, (8, -2): 0, (7, -2): 0, (7, -3): 0, (6, -3): 1, (6, -2): 1, (5, -2): 0, (5, -3): 0, (4, -3): 1, (4, -2): 0, (3, -2): 1, (3, -3): 0, (2, -3): 0, (2, -2): 1, (1, -2): 1, (1, -3): 1, (0, -3): 0, (0, -4): 0, (1, -4): 1, (1, -5): 1, (2, -5): 1, (2, -4): 0, (3, -4): 0, (3, -5): 1, (4, -5): 0, (4, -4): 1, (5, -4): 0, (5, -5): 0, (6, -5): 1, (6, -4): 1, (7, -4): 0, (7, -5): 1, (8, -5): 1, (8, -4): 0, (9, -4): 0, (9, -5): 1, (10, -5): 0, (10, -4): 0, (11, -4): 1, (11, -5): 0, (12, -5): 1, (12, -4): 0, (13, -4): 0, (13, -5): 1, (14, -5): 0, (14, -4): 1, (15, -4): 0, (15, -5): 0, (16, -5): 1, (16, -4): 1, (17, -4): 0, (17, -5): 1, (18, -5): 1, (18, -4): 0, (19, -4): 0, (19, -5): 1, (20, -5): 0, (20, -4): 0, (21, -4): 1, (21, -5): 1, (22, -5): 1, (22, -4): 0, (23, -4): 0, (23, -5): 1, (24, -5): 1, (24, -4): 0, (25, -4): 0, (25, -5): 0, (26, -5): 0, (26, -4): 1, (27, -4): 0, (27, -5): 1, (28, -5): 1, (28, -4): 0, (29, -4): 1, (29, -5): 0, (30, -5): 0, (30, -4): 0, (31, -4): 1, (31, -5): 1, (32, -5): 1, (32, -4): 0, (33, -4): 0, (33, -5): 1, (34, -5): 1, (34, -4): 0, (35, -4): 0, (35, -5): 0, (36, -5): 1, (36, -4): 1, (37, -4): 0, (37, -5): 1, (38, -5): 1, (38, -4): 0, (39, -4): 0, (39, -5): 1, (40, -5): 0, (40, -4): 0})
